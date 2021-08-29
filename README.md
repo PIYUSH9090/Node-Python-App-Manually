@@ -15,6 +15,7 @@ Now your cluster and PD is ready for opration, you can create the nfs-server.
 ## Create NFS Server in GKE
 
 Now the disk is created, let’s create the NFS server.
+For that we need to go to the directory */PV-PVC/* then run this command,
 
 ```
 kubectl apply -f 001-nfs-server.yaml
