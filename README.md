@@ -1,4 +1,4 @@
-# Manually select image with - ImageUpload and CrackDetection webapp with NFS-server on GKE - ReadWriteMany(RWX)
+# Manually select image with - ImageUpload and CrackDetection webapp with NFS-server on GKE - ReadWriteMany(RWX)<<TODO: keep this updated>>
 
 =:> In this task we will use Common cluster and common PV-PVC for both(IU & CD) webapp, also if i upload the image from imageupload app then that same image will be there with detected a crack.
  
